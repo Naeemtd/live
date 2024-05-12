@@ -1,0 +1,51 @@
+{
+  "0": {
+    "id": "4",
+    "name": "Fancode Sports",
+    "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
+    "live_url": "https://dai.google.com/linear/hls/event/0O6AtQ5FQie4sEscC4XSqA/master.m3u8",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://www.x.com/",
+    "youtube": "https://www.youtube.com/",
+    "website": "https://www.google.com/",
+    "category": "Sports"
+  },
+  "1": {
+    "id": "3",
+    "name": "Sky Sports",
+    "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
+    "live_url": "https://ythls.armelin.one/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://www.x.com/",
+    "youtube": "https://www.youtube.com/",
+    "website": "https://www.google.com/",
+    "category": "Sports"
+  },
+  "2": {
+    "id": "2",
+    "name": "GTV Sports",
+    "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
+    "live_url": "https://ythls.armelin.one/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://www.x.com/",
+    "youtube": "https://www.youtube.com/",
+    "website": "https://www.google.com/",
+    "category": "Sports"
+  },
+  "3": {
+    "id": "1",
+    "name": "T Sports",
+    "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
+    "live_url": "https://ythls.armelin.one/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://www.x.com/",
+    "youtube": "https://www.youtube.com/",
+    "website": "https://www.google.com/",
+    "category": "Sports"
+  }
+   
+}
