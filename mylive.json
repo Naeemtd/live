@@ -1,7 +1,7 @@
 {
   "0": {
-    "id": "5",
-    "name": "World Cup Cricket Match HD Live",
+    "id": "6",
+    "name": "World Cup 2024 - Server 1 - ENGLISH",
     "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
     "live_url": "https://mm5-97.tinyuri.org/live/m4-1080p.m3u8",
     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2WfWJnNm4JoLmowgKvGO0mOskObgwOxkmSQ&s",
@@ -12,8 +12,8 @@
     "category": "Sports"
   },
   "1": {
-    "id": "4",
-    "name": "World Cup 2024 - Bangla Live",
+    "id": "5",
+    "name": "World Cup 2024 - Server 2 - BANGLA",
     "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
     "live_url": "https://tv.durbinlive.pro/api/live/onlive.m3u8",
     "thumbnail": "https://assets-global.website-files.com/5d2dff2ab78ea8fc72873c7b/65d62c244135e55f817997f6_T20-world-cup-logo-2024.jpg",
@@ -24,8 +24,8 @@
     "category": "Sports"
   },
   "2": {
-    "id": "3",
-    "name": "WC 2024 - Server 2 - Bangla Live",
+    "id": "4",
+    "name": "World Cup 2024 - Server 3 - HINDI",
     "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
     "live_url": "https://vkvsd69.mycdn.me/hls/6671592589868.m3u8/sig/hQaValNC3IQ/srcIp/103.26.10.33/urls/185.226.53.49/expires/1719522528579/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7439947213612/id/6671592589868/video.m3u8",
     "thumbnail": "https://ygo-assets-websites-editorial-emea.yougov.net/original_images/Mens-T20-world-cup-2024-logo.jpg",
@@ -36,8 +36,8 @@
     "category": "Sports"
   },
   "3": {
-    "id": "2",
-    "name": "WC 2024 Server 3 - HINDI Live",
+    "id": "3",
+    "name": "World Cup 2024 - Server 4 - ENGLISH",
     "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
     "live_url": "https://vkvsd85.mycdn.me/hls/6671544945196.m3u8/sig/Nd23ae3qqok/expires/1719149579515/srcIp/103.26.10.33/urls/185.226.52.94/clientType/14/srcAg/CHROME_ANDROID/mid/7439914642220/video.m3u8",
     "thumbnail": "https://assets-global.website-files.com/5d2dff2ab78ea8fc72873c7b/65d62c244135e55f817997f6_T20-world-cup-logo-2024.jpg",
@@ -48,8 +48,20 @@
     "category": "Sports"
   },
   "4": {
+    "id": "2",
+    "name": "World Cup 2024 - Server 5 - ENGLISH",
+    "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
+    "live_url": "https://vkvsd232.mycdn.me/hls/6671563229740.m3u8/sig/axc-U-w13es/srcIp/103.26.10.33/urls/185.226.52.64/expires/1719522417875/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7439927552812/id/6671563229740/video.m3u8",
+    "thumbnail": "https://ygo-assets-websites-editorial-emea.yougov.net/original_images/Mens-T20-world-cup-2024-logo.jpg",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://www.x.com/",
+    "youtube": "https://www.youtube.com/",
+    "website": "https://www.google.com/",
+    "category": "Sports"
+  },
+  "5": {
     "id": "1",
-    "name": "WC 2024 Server 4 - ENGLISH Live",
+    "name": "World Cup 2024 - Server 6 - ENGLISH",
     "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
     "live_url": "https://vkvsd232.mycdn.me/hls/6671563229740.m3u8/sig/axc-U-w13es/srcIp/103.26.10.33/urls/185.226.52.64/expires/1719522417875/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7439927552812/id/6671563229740/video.m3u8",
     "thumbnail": "https://ygo-assets-websites-editorial-emea.yougov.net/original_images/Mens-T20-world-cup-2024-logo.jpg",
