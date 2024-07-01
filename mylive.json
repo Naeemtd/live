@@ -1,10 +1,10 @@
 {
   "0": {
     "id": "6",
-    "name": "World Cup 2024 - Server 1 - ENGLISH",
+    "name": "LPL Live 2024 Server 1",
     "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
-    "live_url": "https://mm5-97.tinyuri.org/live/m4-1080p.m3u8",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2WfWJnNm4JoLmowgKvGO0mOskObgwOxkmSQ&s",
+    "live_url": "https://hls.livecricketsl.xyz/lpl/480p.m3u8",
+    "thumbnail": "https://media.crictracker.com/media/attachments/1714742440471_LPL-logo.jpeg",
     "facebook": "https://www.facebook.com/",
     "twitter": "https://www.x.com/",
     "youtube": "https://www.youtube.com/",
@@ -13,10 +13,10 @@
   },
   "1": {
     "id": "5",
-    "name": "World Cup 2024 - Server 2 - BANGLA",
+    "name": "LPL 2024 - Server 2",
     "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
-    "live_url": "https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/94vqF76ucSiIJ83dE77uDPkzXE1l2NaMWYNlAik2ihP9t95nn50OF5dOhU3qKGVACyJa0_jL98OyiRHOTZSPfg/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_playlist.m3u8?type=live",
-    "thumbnail": "https://assets-global.website-files.com/5d2dff2ab78ea8fc72873c7b/65d62c244135e55f817997f6_T20-world-cup-logo-2024.jpg",
+    "live_url": "https://hls.livecricketsl.xyz/lpl/480p.m3u8",
+    "thumbnail": "https://media.crictracker.com/media/attachments/1714742440471_LPL-logo.jpeg",
     "facebook": "https://www.facebook.com/",
     "twitter": "https://www.x.com/",
     "youtube": "https://www.youtube.com/",
