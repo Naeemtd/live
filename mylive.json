@@ -3,7 +3,7 @@
     "id": "6",
     "name": "LPL Live 2024 Server 1",
     "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
-    "live_url": "https://hls.livecricketsl.xyz/lpl/480p.m3u8",
+    "live_url": "https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/pvFCwehZ2ULW4cq4Yr4--CiLm3IxYVp5-s7k6O7wuib_KNHvcmEj8QTwnvldf-RwHb0BLSzYhLT6sui9O3XfPw/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_playlist.m3u8?type=live",
     "thumbnail": "https://media.crictracker.com/media/attachments/1714742440471_LPL-logo.jpeg",
     "facebook": "https://www.facebook.com/",
     "twitter": "https://www.x.com/",
